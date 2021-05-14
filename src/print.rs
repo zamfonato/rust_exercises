@@ -20,6 +20,7 @@ impl fmt::Display for Coordinate {
     }
 }
 
+#[allow(dead_code)]
 pub fn run(){
 
     // Print to the console
